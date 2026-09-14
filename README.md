@@ -1,8 +1,7 @@
-### about me
+#### about me
 
-~ computer engineering student @ utfsm | Data Science
+~ computer engineering student @ utfsm | data science
 
 ```text
-certified yapper :p
-using      python · c++ · sql · R
-os       macos · linux
+using      python · c++ · sql · r
+os         macos · linux
