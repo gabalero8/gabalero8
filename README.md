@@ -1,6 +1,6 @@
 #### about me
 
-~ computer engineering student @ utfsm | data science
+~ computer engineering student @ utfsm
 
 ```text
 using      python · c++ · sql · r
